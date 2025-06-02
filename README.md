@@ -35,6 +35,7 @@ streamlit run app.py
 ```
 
 Preview:
-![Gambar1](images/gambar1.jpg)
-![Gambar2](images/gambar2.jpg)
-![Gambar3](images/gamba3.jpg)
+![Gambar1](images/gambar1.png)
+![Gambar2](images/gambar2.png)
+![Gambar3](images/gambar3.png)
+![Gambar4](images/gambar4.png)
