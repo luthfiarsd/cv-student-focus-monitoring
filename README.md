@@ -1,6 +1,8 @@
 # cv-student-focus-monitoring
 COMPUTER VISION - MONITORING FOKUS DAN ATENSI SISWA DALAM PEMBELAJARAN ONLINE &amp; OFFLINE
 
+![Infografis](images/Infografis_Attentix.png)
+
 Sistem deteksi fokus siswa berbasis computer vision menggunakan YOLOv11n. Digunakan untuk memantau atensi siswa selama pembelajaran daring secara real-time.
 
 Fitur Utama:
